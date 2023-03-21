@@ -1,12 +1,12 @@
 # js-biglietto-treno-form-boolean
 
-CALCOLO DEL PREZZO BIGLIETTO DEL TRENO CON UNA FORM INSERENDO KILOMETRI ED ETA'.
+CALCOLO DEL PREZZO DEL BIGLIETTO DEL TRENO GRAZIE AD UNA FORM INSERENDO CHILOMETRI ED ETA'.
 
 1 - Chiedere l'eta' del passeggero tramite input;
     1.1 - Realizare UN campo input per l'età facendo scegliere tra le 3 fasce di età;
     
-2 - Chiedere i kilometri da percorrere tramite input;
-    2.1 - Realizzare un campo input per inserire i kilometri;
+2 - Chiedere i chilometri da percorrere tramite input;
+    2.1 - Realizzare un campo input per inserire i chilometri;
     
 3 - Chiedere il nome dell'utente;
     3.1 - Realizzare un campo input per Nome e Cognome;
